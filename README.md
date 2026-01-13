@@ -25,7 +25,7 @@ A modern, high-performance animated gaming website inspired by Zentry, featuring
 - Smooth UI/UX: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
 
 - Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
-
+<br/><br/>
 
 
 ## Quick Start
@@ -38,13 +38,14 @@ Make sure you have the following installed on your machine:
 - Git
 - Node.js
 - npm (Node Package Manager)
+  <br/><br/>
 
 
 ## Cloning the Repository :-
 
 git clone https://github.com/AbhishekRewale03/zentry-animated-gaming-website.git
 cd zentry-animated-gaming-website
-
+<br/><br/>
 
 
 ## Installation :-
