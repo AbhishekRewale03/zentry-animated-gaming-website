@@ -2,6 +2,7 @@
 
 A modern, high-performance animated gaming website inspired by Zentry, featuring scroll-based motion design, immersive transitions, and interactive UI elements to deliver a premium gaming experience. 
 
+<br/><br/>
 
 
 ## Tech Stack
@@ -9,7 +10,7 @@ A modern, high-performance animated gaming website inspired by Zentry, featuring
 - GSAP
 - React.js
 - Tailwind CSS
-
+<br/><br/>
 
 
 ## Features
